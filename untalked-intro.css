@@ -1,0 +1,39 @@
+/*for intro*/
+body {
+  background: cyan;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 7px;
+  color: red;
+  text-decoration: underline red 5px;
+}
+.intro-a{
+  font-family: arial;
+  color: blue;
+}
+.intro-b{
+  font-family: fantasy;
+  letter-spacing: 1px;
+  color: green
+}
+.why{
+  font-family: serif;
+  color: orangered;
+  font-family: monospace
+}
+.copy {
+  text-align: right
+}
+ol {
+  color: mediumpurple;
+  font-family: cursive
+}
+img {
+  border: 5px solid aquamarine;
+  border-radius: 20px;
+}

@@ -1,0 +1,33 @@
+body {
+  font-size: 110%;
+  text-align: justify;
+  width: 65%;
+  margin: auto
+}
+img{
+  border: 10px solid aquamarine;
+  border-radius: 20px
+}
+a {
+  font-size: 20px;
+  border: solid;
+  border-radius: 11px;
+  background-color: rgba(0, 0, 255, 0.45)
+}
+a:hover{
+  color: cyan;
+  background-color: mediumpurple;
+}
+a:active{
+  color: red;
+}
+.copy {
+  text-align: right;
+  font-size: 80%
+}
+h1 {
+  letter-spacing: 9px;
+}
+div {
+  border-radius: 8px;
+}

@@ -1,0 +1,45 @@
+body{
+  background-color: aquamarine
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 7px;
+  color: blue;
+  text-decoration: underline red 5px;
+}
+.complete{
+  font-family: arial;
+  color: blue;
+}
+.intro{
+  font-family: fantasy;
+  letter-spacing: 1px;
+  color: green
+}
+.straight{
+  font-family: monospace;
+  color: #ffcf00;
+}
+.inverted{
+  font-family: sans-serif;
+  color: red;
+}
+.table{
+  font-family: verdana;
+  color: #ffcf00;
+}
+h2{
+  color: darkgray
+}
+ul {
+  color: mediumpurple;
+  font-family: cursive
+}
+img {
+  border: 5px solid aquamarine;
+  border-radius: 20px;
+}

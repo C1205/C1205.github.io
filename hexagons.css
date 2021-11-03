@@ -1,0 +1,41 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-family: arial;
+  color: blue;
+  letter-spacing: 10px;
+  text-decoration: underline red 5px;
+}
+.hexagons {
+  border: red solid 7px;
+  background-color: rgba(255, 0, 0, 0.36);
+  color: aquamarine;
+  font-family: monospace;
+  font-size: 120%;
+  
+}
+.copy {
+  text-align: right
+}
+.explanation {
+  border: yellow solid 7px;
+  background-color: chartreuse;
+  font-family: cursive;
+  color: dimgray
+}
+.facts {
+  border: blue solid 7px;
+  background-color: aqua;
+  color: red;
+  font-family: sans-serif;
+}
+
+.notes {
+  border: purple solid 7px;
+  background-color: mediumorchid;
+  color: lime;
+  font-family: courier new;
+}

@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(255, 0, 0, 0.7);
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline green 5px wavy;
+  text-align: center;
+  font-family: helvetica;
+  color: aquamarine;
+}
+.uses {
+  border: dotted #00c8ff 8px;
+  font-family: cursive;
+  background-color: lightcyan;
+  color: plum;
+}
+.intro {
+  font-family: lucida console;
+  border: solid 8px antiquewhite;
+  background-color: rgb(22, 0, 255);
+  color: #b5ff7f;
+}
+.how {
+  font-family: georgia;
+  border: solid 8px mediumpurple;
+  background-color: rgba(0, 214, 255, 0.67);
+  color: limegreen;
+}
+.facts {
+  font-family: courier new;
+  border: solid 8px gray;
+  background-color: rgba(0, 255, 57, 0.83);
+  color: aquamarine;
+}
+.notes {
+  border: yellow dotted 8px;
+  background-color: chartreuse;
+  font-family: cursive;
+  color: dimgray
